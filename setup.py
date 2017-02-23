@@ -9,7 +9,7 @@ setup(
 
     # metadata for upload to PyPI
     author='Weather Decision Technologies',
-    author_email='support@wdtinc.com',
+    author_email='pkamis@wdtinc.com',
     description='Python module built around Matplotlib for quickly creating meteograms from weather data.',
     zip_safe=False,
     classifiers=(
